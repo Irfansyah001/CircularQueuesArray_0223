@@ -61,6 +61,10 @@ public:
 				FRONT = + 1;
 		}
 	}
+
+	void display() {
+
+	}
 };
 
 int main()
